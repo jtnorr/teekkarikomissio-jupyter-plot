@@ -334,3 +334,4 @@ cython_debug/
 #.idea/
 
 /data/
+/plots/
