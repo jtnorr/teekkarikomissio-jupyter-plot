@@ -1,4 +1,18 @@
-# Description: A simple utility to load translations from a JSON file.
+"""
+translation_utils.py
+
+This module provides utility functions for handling translations stored in JSON files.
+
+Functions:
+- load_translations(file_path): Loads translations from a specified JSON file.
+- save_translations(translations, file_path): Saves translations to a specified JSON file (currently commented out).
+
+Usage:
+- Use `load_translations` to read translations from a JSON file.
+
+Example:
+    translations = load_translations('path/to/translations.json')
+"""
 
 import json
 import os
