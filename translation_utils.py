@@ -1,3 +1,5 @@
+# Description: A simple utility to load translations from a JSON file.
+
 import json
 import os
 
