@@ -5,7 +5,8 @@ This module provides utility functions for handling translations stored in JSON 
 
 Functions:
 - load_translations(file_path): Loads translations from a specified JSON file.
-- save_translations(translations, file_path): Saves translations to a specified JSON file (currently commented out).
+- save_translations(translations, file_path): Saves translations to a specified JSON file
+(currently commented out).
 
 Usage:
 - Use `load_translations` to read translations from a JSON file.
