@@ -2,6 +2,133 @@
   "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - TK:n hallitus": {
     "en": "Which of these values do you associate with the culture of the technology students in Turku? - Board of TK",
     "fi": "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - TK:n hallitus",
-    "sv": "Vilka av dessa värden förknippar du med teknologers kultur i Åbo? - TK:s styrelse"
+    "sv": "Vilka av dessa värderingar förknippar ni med teknologskap i Åbo? - TK:s styrelse"
+  },
+  "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - Kiltojen hallitukset": {
+    "en": "Which of these values do you associate with the culture of the technology students in Turku? - Boards of Member Organisations",
+    "fi": "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - Kiltojen hallitukset",
+    "sv": "Vilka av dessa värderingar förknippar ni med teknologskap i Åbo? - Styrelser för föreningar"
+  },
+  "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - Kiltojen jäsenet": {
+    "en": "Which of these values do you associate with the culture of the technology students in Turku? - Members of Member Organisations",
+    "fi": "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - Kiltojen jäsenet",
+    "sv": "Vilka av dessa värderingar förknippar ni med teknologskap i Åbo? - Medlemmar i medlemföreningar"
+  },
+  "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - Yhdistetyt vastaukset": {
+    "en": "Which of these values do you associate with the culture of the technology students in Turku? - Combined Survey Results",
+    "fi": "Mitkä arvoista yhdistät turkulaiseen teekkariuteen? - Yhdistetyt vastaukset",
+    "sv": "Vilka av dessa värderingar förknippar ni med teknologskap i Åbo? - Sammansatta resultat"
+  },
+  "yhdenvertaisuus": {
+    "en": "equality",
+    "fi": "yhdenvertaisuus",
+    "sv": "jämlikhet"
+  },
+  "vuorovaikutteisuus": {
+    "en": "interactivity",
+    "fi": "vuorovaikutteisuus",
+    "sv": "interaktivitet"
+  },
+  "jatkuvuus": {
+    "en": "continuity",
+    "fi": "jatkuvuus",
+    "sv": "kontinuitet",
+  },
+  "yhteisöllisyys": {
+    "en": "community",
+    "fi": "yhteisöllisyys",
+    "sv": "gemenskap"
+  },
+  "halu kehittyä": {
+    "en": "desire to develop",
+    "fi": "halu kehittyä",
+    "sv": "vilja att utvecklas"
+  },
+  "turvallisuus": {
+    "en": "safety",
+    "fi": "turvallisuus",
+    "sv": "trygg"
+  },
+  "näkyvä": {
+    "en": "visible",
+    "fi": "näkyvä",
+    "sv": "synlig"
+  },
+  "yhdistävä": {
+    "en": "uniting",
+    "fi": "yhdistävä",
+    "sv": "förenande"
+  },
+  "perinteikäs": {
+    "en": "traditional",
+    "fi": "perinteikäs",
+    "sv": "traditionell"
+  },
+  "edelläkävijä": {
+    "en": "pioneering",
+    "fi": "edelläkävijä",
+    "sv": "föresgångare"
+  },
+  "uudistumiskykyinen": {
+    "en": "innovative",
+    "fi": "uudistumiskykyinen",
+    "sv": "innovativ"
+  },
+  "muutosvastarintainen": {
+    "en": "resistant to change",
+    "fi": "muutosvastarintainen",
+    "sv": "förändringsfientlig"
+  },
+  "ainutlaatuinen": {
+    "en": "unique",
+    "fi": "ainutlaatuinen",
+    "sv": "unik"
+  },
+  "inklusiivinen": {
+    "en": "inclusive",
+    "fi": "inklusiivinen",
+    "sv": "inklusiv"
+  },
+  "sisäänpäinlämpenevä": {
+    "en": "inward-looking",
+    "fi": "sisäänpäinlämpenevä",
+    "sv": "inåtvänd"
+  },
+  "laadukas": {
+    "en": "high-quality",
+    "fi": "laadukas",
+    "sv": "högkvalitativ"
+  },
+  "hajallaanoleva": {
+    "en": "scattered",
+    "fi": "hajallaanoleva",
+    "sv": "spridd"
+  },
+  "keskusteleva": {
+    "en": "conversational",
+    "fi": "keskusteleva",
+    "sv": "konversationsinriktad"
+  },
+  "riitaisa": {
+    "en": "contentious",
+    "fi": "riitaisa",
+    "sv": "tvistad"
+  },
+  "näkymätön": {
+    "en": "invisible",
+    "fi": "näkymätön",
+    "sv": "osynlig"
+  },
+  "vastausten määrä": {
+    "en": "amount of responses",
+    "fi": "vastausten määrä",
+    "sv": "antal svar"
+  },
+  "vaihtoehdot": {
+    "en": "options",
+    "fi": "vaihtoehdot",
+    "sv": "alternativ"
   }
+
+
 }
