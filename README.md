@@ -22,6 +22,24 @@ This Notebook has a couple of major code blocks with Markdown used between as ti
 4. Adjust the column index to match the columns in the Excel file(s)
 5. Run the notebook
 
+## Setting up translations
+
+The translations are in a JSON file called `translations.json`. The file is located in the `data` folder and can be edited to your translation needs. The file is structured as follows:
+
+```json
+{
+  "Search term": {
+    "language_code1": "Translation1",
+    "language_code2": "Translation2"
+  },
+  
+  "Another search term": {
+    "language_code1": "Translation1",
+    "language_code2": "Translation2"
+  }
+}
+```
+
 ## Features
 
 - Automatically processes the data from the Excel file(s) after the initial setup
