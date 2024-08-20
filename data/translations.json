@@ -32,7 +32,7 @@
   "jatkuvuus": {
     "en": "continuity",
     "fi": "jatkuvuus",
-    "sv": "kontinuitet",
+    "sv": "kontinuitet"
   },
   "yhteisöllisyys": {
     "en": "community",
@@ -119,15 +119,15 @@
     "fi": "näkymätön",
     "sv": "osynlig"
   },
-  "vastausten määrä": {
-    "en": "amount of responses",
-    "fi": "vastausten määrä",
-    "sv": "antal svar"
+  "Vastausten määrä": {
+    "en": "Amount of responses",
+    "fi": "Vastausten määrä",
+    "sv": "Antal svar"
   },
-  "vaihtoehdot": {
-    "en": "options",
-    "fi": "vaihtoehdot",
-    "sv": "alternativ"
+  "Vaihtoehdot": {
+    "en": "Options",
+    "fi": "Vaihtoehdot",
+    "sv": "Alternativ"
   }
 
 
