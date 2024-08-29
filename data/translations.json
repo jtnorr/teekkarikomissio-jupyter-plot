@@ -44,9 +44,9 @@
     "fi": "halu kehittyä",
     "sv": "vilja att utvecklas"
   },
-  "turvallisuus": {
-    "en": "safety",
-    "fi": "turvallisuus",
+  "turvallinen": {
+    "en": "safe",
+    "fi": "turvallinen",
     "sv": "trygg"
   },
   "näkyvä": {
@@ -128,6 +128,11 @@
     "en": "Options",
     "fi": "Vaihtoehdot",
     "sv": "Alternativ"
+  },
+  "kekseliäs": {
+    "en": "resourceful",
+    "fi": "kekseliäs",
+    "sv": "fyndig"
   }
 
 
